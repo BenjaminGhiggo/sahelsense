@@ -1,0 +1,25 @@
+{
+  "header": {
+    "title": "SahelSense+",
+    "language": "Language",
+    "export": {
+      "title": "Export",
+      "pdf": "PDF Report",
+      "csv": "CSV Data",
+      "image": "PNG Image"
+    }
+  },
+  "navigation": {
+    "map": "Interactive Map",
+    "climate": "Climate Trends",
+    "urban": "Urban Expansion",
+    "conflicts": "Conflict Risk",
+    "restoration": "Restoration Plan"
+  },
+  "metrics": {
+    "degradedLand": "Degraded Land",
+    "rainfall": "Annual Rainfall",
+    "population": "Critical Zone Population",
+    "riskIndex": "Conflict Risk Index"
+  }
+}
